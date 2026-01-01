@@ -16,7 +16,7 @@ const Hero = () => {
 
           {/* Main heading */}
           <h1 className="font-display text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-medium tracking-tightest leading-[0.9] mb-8 reveal-up animate-delay-100">
-            Crafting
+            Abdul
             <br />
             <span className="text-muted-foreground">Memorable</span>
             <br />
