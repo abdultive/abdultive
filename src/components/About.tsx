@@ -11,14 +11,16 @@ const About = () => {
               About
             </span>
             <h2 className="font-display text-4xl md:text-5xl lg:text-6xl font-medium tracking-tightest leading-[1.1] mb-8">
-              Hi there! 👋🏻
+              Meet the
+              <br />
+              <span className="text-muted-foreground">Designer</span>
             </h2>
           </div>
 
           {/* Right column */}
           <div className="flex flex-col justify-center">
             <p className="text-lg text-muted-foreground leading-relaxed mb-8">
-              I'm Abdul, a logo branding designer. Thanks for the follow!
+              Hi there! 👋🏻 I'm Abdul, a logo branding designer. Thanks for the follow!
             </p>
             <p className="text-lg text-muted-foreground leading-relaxed mb-12">
               If you need a unique logo or branding for your business, feel free to reach out. Happy to help!
