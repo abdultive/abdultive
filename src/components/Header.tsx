@@ -33,6 +33,9 @@ const Header = () => {
           <a href="#about" className="font-mono text-xs uppercase tracking-widest text-muted-foreground hover:text-foreground transition-colors">
             About
           </a>
+          <a href="#payment" className="font-mono text-xs uppercase tracking-widest text-muted-foreground hover:text-foreground transition-colors">
+            Payment
+          </a>
           <a href="#contact" className="font-mono text-xs uppercase tracking-widest text-muted-foreground hover:text-foreground transition-colors">
             Contact
           </a>
