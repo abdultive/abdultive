@@ -19,11 +19,11 @@ const Header = () => {
   return (
     <header className="fixed top-0 left-0 right-0 z-50 mix-blend-difference">
       <nav className="container py-6 flex items-center justify-between">
-        <a 
-          href="/" 
+        <a
+          href="/"
           className="font-display text-lg font-medium tracking-tight text-foreground hover:opacity-70 transition-opacity"
         >
-          Abdultive®
+          Abdultive.co
         </a>
 
         <div className="hidden md:flex items-center gap-8">
