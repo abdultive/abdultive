@@ -20,30 +20,36 @@ const Contact = () => {
             and creative collaborations.
           </p>
 
-          {/* Email link */}
+          {/* DM link */}
           <a 
-            href="mailto:hello@studio.com"
+            href="https://twitter.com/abdultive"
+            target="_blank"
+            rel="noopener noreferrer"
             className="group inline-flex items-center gap-4 bg-card hover:bg-secondary px-8 py-5 transition-all duration-300"
             style={{ boxShadow: 'var(--shadow-card)' }}
           >
             <Mail className="w-5 h-5 text-muted-foreground group-hover:text-foreground transition-colors" />
             <span className="font-mono text-lg tracking-wide">
-              hello@studio.com
+              DM @abdultive
             </span>
             <ArrowUpRight className="w-5 h-5 opacity-0 -translate-x-2 group-hover:opacity-100 group-hover:translate-x-0 transition-all" />
           </a>
 
           {/* Social links */}
-          <div className="flex items-center justify-center gap-8 mt-16">
+          <div className="flex flex-wrap items-center justify-center gap-6 md:gap-8 mt-16">
             {[
-              { name: 'Instagram', href: '#' },
-              { name: 'Behance', href: '#' },
-              { name: 'Dribbble', href: '#' },
-              { name: 'LinkedIn', href: '#' },
+              { name: 'Twitter', href: 'https://twitter.com/abdultive' },
+              { name: 'Instagram', href: 'https://instagram.com/abdultive.co' },
+              { name: 'Dribbble', href: 'https://dribbble.com/abdultive' },
+              { name: 'Behance', href: 'https://behance.net/abdultive' },
+              { name: 'LinkedIn', href: 'https://linkedin.com/in/abdultive' },
+              { name: 'Layers', href: 'https://layers.to/abdultive' },
             ].map((social) => (
               <a
                 key={social.name}
                 href={social.href}
+                target="_blank"
+                rel="noopener noreferrer"
                 className="font-mono text-xs uppercase tracking-widest text-muted-foreground hover:text-foreground transition-colors link-underline"
               >
                 {social.name}
