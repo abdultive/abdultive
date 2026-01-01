@@ -23,7 +23,7 @@ const Header = () => {
           href="/" 
           className="font-display text-lg font-medium tracking-tight text-foreground hover:opacity-70 transition-opacity"
         >
-          STUDIO®
+          Abdultive®
         </a>
 
         <div className="hidden md:flex items-center gap-8">
