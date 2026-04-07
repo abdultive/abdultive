@@ -16,17 +16,16 @@ const Hero = () => {
 
           {/* Main heading */}
           <h1 className="font-display text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-medium tracking-tightest leading-[0.9] mb-8 reveal-up animate-delay-100">
-            Abdul
+            Crafted
             <br />
-            <span className="text-muted-foreground">Memorable</span>
+            <span className="text-muted-foreground">Identities for</span>
             <br />
-            Identities
+            Visionary Minds
           </h1>
 
           {/* Description */}
           <p className="max-w-lg text-lg text-muted-foreground leading-relaxed mb-12 reveal-up animate-delay-200">
-            Focused on creating distinctive logos and brand identities that resonate.
-            Every mark tells a story.
+            Specialized in crafting brandmark and bespoke branding for visionary minds.
           </p>
 
           {/* CTA */}
