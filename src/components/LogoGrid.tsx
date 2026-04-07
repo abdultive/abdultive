@@ -110,7 +110,7 @@ const LogoGrid = () => {
               Selected Work
             </span>
             <h2 className="font-display text-4xl md:text-5xl font-medium tracking-tightest">
-              Logo Collection
+              Brandmarks Collection
             </h2>
           </div>
           <p className="max-w-sm text-muted-foreground md:text-right">

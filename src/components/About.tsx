@@ -20,10 +20,10 @@ const About = () => {
           {/* Right column */}
           <div className="flex flex-col justify-center">
             <p className="text-lg text-muted-foreground leading-relaxed mb-8">
-              Hi there! 👋🏻 I'm Abdul, a logo branding designer. Thanks for the follow!
+              Hi there! 👋🏻 I'm Abdul, the designer. Specializing on logo branding and visual identities. Thanks for the visit!
             </p>
             <p className="text-lg text-muted-foreground leading-relaxed mb-12">
-              If you need a unique logo or branding for your business, feel free to reach out. Happy to help!
+              If you need a sublime logo or branding for your business, feel free to reach out. Happy to help!
             </p>
 
             {/* Services */}
