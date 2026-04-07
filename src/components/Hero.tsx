@@ -25,8 +25,7 @@ const Hero = () => {
 
           {/* Description */}
           <p className="max-w-lg text-lg text-muted-foreground leading-relaxed mb-12 reveal-up animate-delay-200">
-            Focused on creating distinctive logos and brand identities that resonate.
-            Every mark tells a story.
+            Specialized in crafting brandmark and bespoke branding for visionary minds.
           </p>
 
           {/* CTA */}
