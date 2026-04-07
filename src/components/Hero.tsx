@@ -16,11 +16,11 @@ const Hero = () => {
 
           {/* Main heading */}
           <h1 className="font-display text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-medium tracking-tightest leading-[0.9] mb-8 reveal-up animate-delay-100">
-            Abdul
+            Crafted
             <br />
-            <span className="text-muted-foreground">Memorable</span>
+            <span className="text-muted-foreground">Identities for</span>
             <br />
-            Identities
+            Visionary Minds
           </h1>
 
           {/* Description */}
