@@ -114,7 +114,7 @@ const LogoGrid = () => {
             </h2>
           </div>
           <p className="max-w-sm text-muted-foreground md:text-right">
-            A curated selection of brand identities crafted for forward-thinking companies.
+            A curated showcase of brand marks for upcoming clients, startups and companies.
           </p>
         </div>
 
